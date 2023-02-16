@@ -149,10 +149,10 @@ graph LR
   D --> No
   E --> Type 1
   E --> Type 2
-  F --> First Visit
+  H --> First Visit
   First Visit --> Gas Repair
   First Visit --> Gas Repair and Gas Service
   First Visit --> Gas Service
-  F --> Parts Required
+  H --> Parts Required
 
 ```
