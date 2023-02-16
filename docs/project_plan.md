@@ -128,3 +128,28 @@ gantt
     User Acceptance Testing: c3, after c2, 14d
 
 
+graph LR
+  A((Mindmap)) 
+  B((Job Type))
+  C((Contractor))
+  D((Priority Customer))
+  E((Appliance Type))
+  F((Patch))
+  G((Region))
+  H((Visits))
+  B --> Gas Repair
+  B --> Gas Service
+  B --> Long Duration
+  B --> Landlords
+  C --> Yes
+  C --> No
+  D --> Yes
+  D --> No
+  E --> CHB
+  E --> BBF
+  F --> First Visit
+  First Visit --> Gas Repair
+  First Visit --> Gas Repair and Gas Service
+  First Visit --> Gas Repair and Gas Service
+  F --> Parts Required
+  F --> Recall
