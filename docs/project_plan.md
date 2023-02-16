@@ -29,10 +29,10 @@
       <a href="#high-level-process-documentation">High level process documentation</a>
     </li>
     <li>
-      <a href="#Project-Schedule-/-details">Project Schedule / Details</a>
+      <a href="#Project Results">Project Results</a>
     </li>
     <li>
-      <a href="#detailed-process-documentation">Detailed process documentation</a>
+      <a href="#Project-Schedule">Project-Schedule- documentation</a>
     </li>
   </ol>
 </details>
@@ -108,7 +108,7 @@ _________________________
 - Engineers have more capacity with more accurate job time predictions. More jobs booked per day
 - Reduces engineer reschedules if too many jobs are booked. Fewer reschedules, better efficiency, happier customers
 
-## Project Results -**
+## Project Results: -**
 ****
 
 - Reduced allocated engineer job times by 15%
@@ -117,7 +117,8 @@ _________________________
 
 ****
 
-## Project Schedule
+## Project Schedule: -**
+****
 
 The following is a Gantt chart outlining the schedule for the project:
 
