@@ -83,9 +83,9 @@ _________________________
 | -----------: | :-----------: | :-----------: | 
 | Data location/s identified | ✔️ | [comment] |
 | Data location/s accessible | ✔️ | Accessible through DB |
-| Labour resource needed (eg # Data Scientists) | 1 x Lead, 2 x Data Scientists |  [comment] |
-| Technical Resource needed () | Databricks, Azure ML | [comment] |
-| Technical Skillset required | PySpark  | [comment] |
+| Labour resource needed (eg # Data Scientists) | 1 x Lead, 2 x Data Scientists |  [-] |
+| Technical Resource needed () | Databricks, Azure ML | [-] |
+| Technical Skillset required | PySpark  | [-] |
 | Personal/Sensitive Data Used | ✔️ | Data obviscated and stored in locked down container  |
 | Privacy Impact Assessment Required | ✔️ | PIA Ref: ****|
 | Tangible output | Field trial with new job times implemented and succesful roll out across patches | 15% Job time reduction |
