@@ -37,10 +37,16 @@
   </ol>
 </details>
 
+
+## TL;DR:
+
+Productionisation of an end-to-end machine learning model built using Azure ML and Databricks, reducing allocated engineer job times by 15%, saving £2million per annum, driving efficiencies and cost savings.
+
+
 ## Project Overview:
 | Work Stream | Project Title | High Level Description | Type | Indicative business value | Initial timescale | Long Term Goal | Date Raised |
 | -----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| Planning | Job Time Estimation (Engineer Field Strategy) | Optimising engineer job times  | Production | £1.5 million | 5 months | A soft and hard trial, based on experimental design, looking to change engineer job times | '22 |
+| Planning | Job Time Estimation (Engineer Field Strategy) | Optimising engineer job times  | Production | £2 million | 5 months | A soft and hard trial, based on experimental design, looking to change engineer job times | '22 |
 
 ## Initial MVP Breakdown:
 - MVP 1: Soft Trial ; introducing new job times for Gas Repair across a patch
@@ -102,11 +108,14 @@ _________________________
 - Engineers have more capacity with more accurate job time predictions. More jobs booked per day
 - Reduces engineer reschedules if too many jobs are booked. Fewer reschedules, better efficiency, happier customers
 
-## Data location / Details:
+## Project Results -**
 ****
 
-UNDISCLOSED : ****
+- Reduced allocated engineer job times by 15%
+- Savings of roughly £2 million per annum
+- Presented at Director level and senior leadership
 
+****
 
 ## Project Schedule
 
