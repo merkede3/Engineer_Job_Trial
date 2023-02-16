@@ -3,9 +3,6 @@
 <h3 align="center">Engineer Job Times | Status: Complete</h3>
 </div>
 
-## Objective Supported
-- Efficiency and cost savings
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
