@@ -29,7 +29,7 @@
       <a href="#high-level-process-documentation">High level process documentation</a>
     </li>
     <li>
-      <a href="#data-location-/-details">Data location / Details</a>
+      <a href="#Project-Schedule-/-details">Project Schedule / Details</a>
     </li>
     <li>
       <a href="#detailed-process-documentation">Detailed process documentation</a>
