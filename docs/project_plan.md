@@ -126,8 +126,9 @@ gantt
     Integration Testing: c1, after b2, 14d
     System Testing: c2, after c1, 14d
     User Acceptance Testing: c3, after c2, 14d
+```
 
-
+```mermaid
 graph LR
   A((Mindmap)) 
   B((Job Type))
@@ -153,3 +154,4 @@ graph LR
   First Visit --> Gas Repair and Gas Service
   F --> Parts Required
   F --> Recall
+```
