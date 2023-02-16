@@ -51,7 +51,7 @@
 ## Business metric/s targetted:
 |  | 🤬 Complaints | ☎️ Contact | 🚦 NPS | 📆 Reschedules | 📊 Solver/RFT/FTF | ⏳ Efficiency/FTE | 💻 OAM |
 | -----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| Increase 🔼 / 🔽 Reduction | ✔️ |  | ✔️ |  |  | ✔️ |  |
+| Increase 🔼 / 🔽 Reduction |  |  |  | ✔️ |  | ✔️ |  |
 
 _________________________
 
@@ -88,27 +88,43 @@ _________________________
 _________________________
 
 ## High level process documentation:
-**Current process: -**  
+**Project Intent (Why): -**  
 ****
 
-Hive contact agent SME: **** (manager of call centre graduate **** - she is leaving her placement soon and her manager **** has agreed to take over for any questions)
+- This project was born from the understanding that engineer job time predictions are taken from a non-dynamic static "lookup table"
+- No accountabiity was made previously for an engineers' specific patch, the time of year, weather etc ...
+- The ask is to build a dynamic job times model catering to each specific patch; accounting for various factors
+- NB: This needs to be performed so not as to upset existing engineers in making them feel threatened or watched   
 
-**Intended process: -**  
+**Business value: -**  
 ****
-:::mermaid
-graph TD;
-    A[Customer speaks to agent] --> B(Agent fulfills what is required and hangs up call) --> C(Agent picks up next call) --> D[NLP model produces wrap notes from transcripts and attaches to account]
-:::
+
+- Engineers have more capacity with more accurate job time predictions. More jobs booked per day
+- Reduces engineer reschedules if too many jobs are booked. Fewer reschedules, better efficiency, happier customers
 
 ## Data location / Details:
 ****
 
-BLOCKER: ****
-BLOCKER: ****
-BLOCKER: ****
+UNDISCLOSED : ****
 
-## Intended progress of the project:  
-1) ****  
-2) ****
-3) ****
+
+## Project Schedule
+
+The following is a Gantt chart outlining the schedule for the project:
+
+```mermaid
+gantt
+    dateFormat  YYYY-MM-DD
+    title Project Schedule
+    section Design
+    Identify Requirements: a1, 2022-01-01, 7d
+    Create Design Plan: a2, after a1, 5d
+    section Development
+    Develop Code: b1, after a2, 14d
+    Perform Unit Testing: b2, after b1, 7d
+    section Testing
+    Integration Testing: c1, after b2, 14d
+    System Testing: c2, after c1, 14d
+    User Acceptance Testing: c3, after c2, 14d
+
 
