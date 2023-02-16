@@ -40,7 +40,7 @@
 ## Project Overview:
 | Work Stream | Project Title | High Level Description | Type | Indicative business value | Initial timescale | Long Term Goal | Date Raised |
 | -----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| Planning | Job Time Estimation (Engineer Field Strategy) | Optimising engineer job times  | Production | 💷TBC | 5 months | A soft and hard trial, based on experimental design, looking to change engineer job times | '22 |
+| Planning | Job Time Estimation (Engineer Field Strategy) | Optimising engineer job times  | Production | £1.5 million | 5 months | A soft and hard trial, based on experimental design, looking to change engineer job times | '22 |
 
 ## Initial MVP Breakdown:
 - MVP 1: Soft Trial ; introducing new job times for Gas Repair across a patch
@@ -127,6 +127,8 @@ gantt
     System Testing: c2, after c1, 14d
     User Acceptance Testing: c3, after c2, 14d
 ```
+
+## Project Schedule
 
 ```mermaid
 graph LR
