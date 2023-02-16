@@ -88,7 +88,7 @@ _________________________
 | Technical Skillset required | PySpark  | [comment] |
 | Personal/Sensitive Data Used | ✔️ | Data obviscated and stored in locked down container  |
 | Privacy Impact Assessment Required | ✔️ | PIA Ref: ****|
-| Tangible output | Field trial with new job times implemented and succesful roll out across patches |
+| Tangible output | Field trial with new job times implemented and succesful roll out across patches | 15% Job time reduction |
 
 
 _________________________
