@@ -4,7 +4,7 @@
 </div>
 
 ## Objective Supported
-![objective_image](***/images/strategy/contact.png?csf=1&web=1&e=NaBIbP)
+- Efficiency and cost savings
 
 <!-- TABLE OF CONTENTS -->
 <details>
