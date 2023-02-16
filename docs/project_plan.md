@@ -108,8 +108,8 @@ _________________________
 - Engineers have more capacity with more accurate job time predictions. More jobs booked per day
 - Reduces engineer reschedules if too many jobs are booked. Fewer reschedules, better efficiency, happier customers
 
-## Project Results: -**
-****
+## Project Results:
+
 
 - Reduced allocated engineer job times by 15%
 - Savings of roughly £2 million per annum
@@ -117,8 +117,7 @@ _________________________
 
 ****
 
-## Project Schedule: -**
-****
+## Project Schedule:
 
 The following is a Gantt chart outlining the schedule for the project:
 
