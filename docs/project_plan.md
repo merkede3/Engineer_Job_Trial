@@ -94,7 +94,7 @@ _________________________
 _________________________
 
 ## High level process documentation:
-**Project Intent (Why): -**  
+**Project Intent : -**  
 ****
 
 - This project was born from the understanding that engineer job time predictions are taken from a non-dynamic static "lookup table"
