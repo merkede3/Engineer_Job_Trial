@@ -32,7 +32,7 @@
       <a href="#Project Results">Project Results</a>
     </li>
     <li>
-      <a href="#Project-Schedule">Project-Schedule- documentation</a>
+      <a href="#Project-Schedule">Project-Schedule</a>
     </li>
   </ol>
 </details>
@@ -107,6 +107,8 @@ _________________________
 
 - Engineers have more capacity with more accurate job time predictions. More jobs booked per day
 - Reduces engineer reschedules if too many jobs are booked. Fewer reschedules, better efficiency, happier customers
+
+****
 
 ## Project Results:
 
